@@ -5,7 +5,7 @@ Thank you for using WatchTonight - Movies & Shows!
 If you need help or have any questions, feel free to reach out:
 
 📧 Email: jonte.developer@gmail.com 
-📄 FAQ & Updates: [https://github.com/jonteab/WatchTonight](https://github.com/jonteab/WatchTonight)
+📄 FAQ & Updates: [https://github.com/jonteab/watchtonight-support](https://github.com/jonteab/watchtonight-support)
 
 ---
 
